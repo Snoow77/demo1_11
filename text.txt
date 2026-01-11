@@ -1,0 +1,9 @@
+đây là nội dung trong file code 
+
+include "iostream.h"
+using namespace std; 
+
+int main{
+	cout << "helo mọi người " << endl; 
+	return 0 ; 
+}
